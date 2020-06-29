@@ -12,7 +12,9 @@
   "dependencies": {
     "@quasar/extras": "^1.0.0",
     "core-js": "^3.6.5",
-    "quasar": "^1.0.0"
+    "idb": "^5.0.4",
+    "quasar": "^1.0.0",
+    "vuejs-logger": "^1.5.4"
   },
   "devDependencies": {
     "@quasar/app": "^2.0.0",
